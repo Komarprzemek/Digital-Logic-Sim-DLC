@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.37311953, g: 0.38074014, b: 0.3587274, a: 1}
+  m_IndirectSpecularColor: {r: 0.37311912, g: 0.3807395, b: 0.35872674, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1003,9 +1003,9 @@ Camera:
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
-    y: 0.00021374226
+    y: 0.00016984344
     width: 1
-    height: 0.9995725
+    height: 0.9996603
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 60
@@ -2444,7 +2444,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: DIGITAL LOGIC SIM
+  m_text: DIGITAL LOGIC SIM + DLC
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ad14c11c7672b4540884a4dd206ac72c, type: 2}
   m_sharedMaterial: {fileID: -1099662689305613311, guid: ad14c11c7672b4540884a4dd206ac72c, type: 2}
@@ -2471,8 +2471,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 225
-  m_fontSizeBase: 225
+  m_fontSize: 220
+  m_fontSizeBase: 220
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -4815,7 +4815,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Created by: Sebastian Lague'
+  m_text: 'Created by: Sebastian Lague DLC by: Przemyslaw Komarnicki'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c33e17f8c4155864fb769490cf5635af, type: 2}
   m_sharedMaterial: {fileID: -5702233291332414176, guid: c33e17f8c4155864fb769490cf5635af, type: 2}
@@ -4849,7 +4849,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 2
+  m_HorizontalAlignment: 1
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -5574,7 +5574,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: DIGITAL LOGIC SIM
+  m_text: DIGITAL LOGIC SIM + DLC
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ad14c11c7672b4540884a4dd206ac72c, type: 2}
   m_sharedMaterial: {fileID: -1099662689305613311, guid: ad14c11c7672b4540884a4dd206ac72c, type: 2}
@@ -8477,7 +8477,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Last Updated: 29/Jan/23'
+  m_text: 'Last Updated:  04/04/25'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c33e17f8c4155864fb769490cf5635af, type: 2}
   m_sharedMaterial: {fileID: -5702233291332414176, guid: c33e17f8c4155864fb769490cf5635af, type: 2}
@@ -8733,7 +8733,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Version: 1.01 (alpha)'
+  m_text: 'Version: 1.0.0'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c33e17f8c4155864fb769490cf5635af, type: 2}
   m_sharedMaterial: {fileID: -5702233291332414176, guid: c33e17f8c4155864fb769490cf5635af, type: 2}
